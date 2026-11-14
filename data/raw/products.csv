@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,unit_cost,shelf_life_days,base_daily_demand
+MED_001,Paracetamol 500mg,Analgesic,2.5,1.1,180,24
+MED_002,Ibuprofen 200mg,Analgesic,3.0,1.4,180,18
+MED_003,Cetirizine 10mg,Antihistamine,4.0,1.8,240,12
+MED_004,ORS Sachet,Hydration,1.5,0.6,365,30
+MED_005,Vitamin C 500mg,Supplement,5.0,2.4,365,14
+MED_006,Cough Syrup 100ml,Cold and Cough,8.0,3.9,365,10
+MED_007,Antacid Tablets,Gastrointestinal,3.5,1.5,240,16
+MED_008,Omeprazole 20mg,Gastrointestinal,6.0,2.7,240,12
+MED_009,Amoxicillin 500mg,Antibiotic,7.5,3.5,120,14
+MED_010,Azithromycin 500mg,Antibiotic,9.0,4.3,120,8
+MED_011,Metformin 500mg,Chronic Care,4.5,1.9,365,25
+MED_012,Amlodipine 5mg,Chronic Care,4.0,1.7,365,20
+MED_013,Loratadine 10mg,Antihistamine,3.8,1.6,240,10
+MED_014,Diclofenac Gel 30g,Pain Relief,10.0,4.8,365,8
+MED_015,Multivitamin Tablets,Supplement,6.5,3.0,365,12
